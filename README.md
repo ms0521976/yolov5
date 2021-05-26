@@ -155,6 +155,10 @@ $ python train.py --data coco.yaml --cfg yolov5s.yaml --weights '' --batch-size 
 [![DOI](https://zenodo.org/badge/264818686.svg)](https://zenodo.org/badge/latestdoi/264818686)
 
 
+  
+## Crop and save bounding box.
+--save-crop
+
 ## About Us
 
 Ultralytics is a U.S.-based particle physics and AI startup with over 6 years of expertise supporting government, academic and business clients. We offer a wide range of vision AI services, spanning from simple expert advice up to delivery of fully customized, end-to-end production solutions, including:
